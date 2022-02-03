@@ -1,1 +1,1 @@
-# shopify-static
+# shopify
